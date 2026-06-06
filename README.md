@@ -20,24 +20,6 @@ I am a passionate developer currently enhancing my skills in the **Modern Web Ap
 | **Modern Frontend** | React.js (Hooks, Component Architecture) |
 | **Tools & Platforms** | Git, GitHub, VS Code, Netlify, Surge |
 
----
 
-### 🛠️ Key SMIT Assignments & Projects
-* 📁 **[Project Name 1]** - A responsive web layout utilizing advanced UI patterns.
-* 📁 **[Project Name 2]** - A dynamic JavaScript application focused on logic and DOM manipulation.
-* 📁 **[Project Name 3]** - A modern single-page application built using React.js.
 
----
 
-### 📊 GitHub Activity
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=dark)
-
----
-
-### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-
-*"Consistently turning learning blocks into clean, scalable applications."*
